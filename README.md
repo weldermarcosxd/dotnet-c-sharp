@@ -5,7 +5,7 @@
 
 - Google books (https://developers.google.com/books/)
 - Material Design (https://material.io/guidelines/)
-- Banco de dados NoSQL (MongoDB, Firebase, etc) ou in-memory
+- Banco de dados (a sua escolha)
 
 ### Diferencial
 
@@ -24,23 +24,24 @@
 - A prova consiste em criar uma interface Web para interação com o Google books.
 - Seu projeto deve também conter um arquivo README com a explicação das tecnologias utilizadas e as instruções para rodar.
 - Descrever suas dificuldades e facilidades, bem como o número de horas de desenvolvimento.
+- A comunicação com o Google Books API deve ser feita utilizando um HttpClient padrão, feito na mão e sem o uso de qualquer library.
+- O Google Books API é aberto e não requer nenhuam autenticação.
 
 ### Funcionalidades
 
 A App deve conter as seguintes funcionalidades:
 
-1. Logar com uma conta Google
-2. Navegação com dados do usuário e itens de menu
-3. Pesquisar livros no Google books e exibir em tela (com a foto)
-4. Salvar livros em uma lista de "meus favoritos" (localmente na base escolhida)
-5. Editar e excluir livros favoritos
-6. Exibir alerta de confirmaçao de exclusão
-7. Logout da conta Google
+São 2 menus: Pesquisa, Meus favoritos
+
+1. Pesquisar livros no Google books e exibir em tela (com a foto e descrição resumida)
+2. Salvar livros em uma lista de "meus favoritos" (localmente na base escolhida)
+3. Listar e excluir livros favoritos
+4. Exibir alerta de confirmaçao de exclusão
 
 ### Especificações técnicas
 
 * O App deve se comunicar com o Google Books API pelo backend .Net
-* Recomendamos para sua facilidade a utilização do [Firebase](https://firebase.google.com), mas fique a vontade para usar outro de seu maior domínio.
+* Você pode optar pelo padrão MVC ou Front-end separado.
 
 ## Dúvidas? Envio da prova?
 `testes@lyncas.net`

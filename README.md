@@ -4,13 +4,10 @@
 ### Requisitos
 
 - Google books (https://developers.google.com/books/)
-- Material Design (https://material.io/guidelines/)
-- Banco de dados (a sua escolha)
 
 ### Diferencial
 
 - Testes unitários
-- Arquitetura do projeto
 - Backend e frontend em microserviços distintos
 
 ## Como participar?
@@ -20,6 +17,14 @@
 3. Faremos nossa análise e te daremos um retorno.
 
 ## Detalhes da prova
+
+### Critérios analisados
+
+- Arquitetura do projeto (camadas)
+- Aplicação de orientação a objeto
+- Funcionalidades e funcionamento
+
+### O que você deve desenvolver
 
 - A prova consiste em criar uma interface Web para interação com o Google books.
 - Seu projeto deve também conter um arquivo README com a explicação das tecnologias utilizadas e as instruções para rodar.
@@ -40,7 +45,7 @@ São 2 menus: Pesquisa, Meus favoritos
 
 ### Especificações técnicas
 
-* O App deve se comunicar com o Google Books API pelo backend .Net
+* O App deve se comunicar com o Google Books API pelo backend .Net e não fazer uso de nenhuma lib
 * Você pode optar pelo padrão MVC ou Front-end separado.
 
 ## Dúvidas? Envio da prova?

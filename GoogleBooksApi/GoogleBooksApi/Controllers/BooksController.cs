@@ -18,7 +18,7 @@ namespace GoogleBooksApi.Controllers
         }
 
         [HttpGet]
-        public async Task<IEnumerable<BookModel>> Get(string query = "Game of Thrones")
+        public async Task<IEnumerable<BookModel>> Get(string query = "c#")
         {
             return await _googleBooksService.GetGoogleBooks(query);
         }

@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleBooksApi", "GoogleBooksApi\GoogleBooksApi.csproj", "{2FA561F6-6063-4058-AC16-F609300ECAB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{786F91C3-5FC6-49D6-A409-651CD5B6C58D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{BFB11201-177A-4756-8C6E-4321AC8A6704}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{B7A709F0-016D-4D3A-AC12-1BAF0AB1132C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 Infra", "4 Infra", "{97D48447-64E3-4C9D-9D95-F44ED843BFE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleBooksApplication", "GoogleBooksApplication\GoogleBooksApplication.csproj", "{ABA30E99-DED0-4E29-BB2E-7F348EA353D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleBooksDomain", "GoogleBooksDomain\GoogleBooksDomain.csproj", "{A5CC8DD9-B75B-4785-BD0B-7FEE6DB30751}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleBooksData", "GoogleBooksData\GoogleBooksData.csproj", "{EE5CA4A8-5CB2-489D-8FCE-34890FA9B967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA561F6-6063-4058-AC16-F609300ECAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA561F6-6063-4058-AC16-F609300ECAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA561F6-6063-4058-AC16-F609300ECAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA561F6-6063-4058-AC16-F609300ECAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA30E99-DED0-4E29-BB2E-7F348EA353D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA30E99-DED0-4E29-BB2E-7F348EA353D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA30E99-DED0-4E29-BB2E-7F348EA353D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA30E99-DED0-4E29-BB2E-7F348EA353D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5CC8DD9-B75B-4785-BD0B-7FEE6DB30751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CC8DD9-B75B-4785-BD0B-7FEE6DB30751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CC8DD9-B75B-4785-BD0B-7FEE6DB30751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CC8DD9-B75B-4785-BD0B-7FEE6DB30751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5CA4A8-5CB2-489D-8FCE-34890FA9B967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5CA4A8-5CB2-489D-8FCE-34890FA9B967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5CA4A8-5CB2-489D-8FCE-34890FA9B967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5CA4A8-5CB2-489D-8FCE-34890FA9B967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2FA561F6-6063-4058-AC16-F609300ECAB1} = {786F91C3-5FC6-49D6-A409-651CD5B6C58D}
+		{ABA30E99-DED0-4E29-BB2E-7F348EA353D1} = {BFB11201-177A-4756-8C6E-4321AC8A6704}
+		{A5CC8DD9-B75B-4785-BD0B-7FEE6DB30751} = {B7A709F0-016D-4D3A-AC12-1BAF0AB1132C}
+		{EE5CA4A8-5CB2-489D-8FCE-34890FA9B967} = {97D48447-64E3-4C9D-9D95-F44ED843BFE4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD146A23-ABE4-4538-A322-A97485579CDA}
+	EndGlobalSection
+EndGlobal

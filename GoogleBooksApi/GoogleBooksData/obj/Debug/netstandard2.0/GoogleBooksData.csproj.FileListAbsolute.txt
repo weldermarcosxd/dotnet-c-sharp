@@ -1,0 +1,12 @@
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksData\bin\Debug\netstandard2.0\GoogleBooksData.deps.json
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksData\bin\Debug\netstandard2.0\GoogleBooksData.dll
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksData\bin\Debug\netstandard2.0\GoogleBooksData.pdb
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksData\bin\Debug\netstandard2.0\GoogleBooksDomain.dll
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksData\bin\Debug\netstandard2.0\GoogleBooksDomain.pdb
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksData\obj\Debug\netstandard2.0\GoogleBooksData.csprojAssemblyReference.cache
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksData\obj\Debug\netstandard2.0\GoogleBooksData.AssemblyInfoInputs.cache
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksData\obj\Debug\netstandard2.0\GoogleBooksData.AssemblyInfo.cs
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksData\obj\Debug\netstandard2.0\GoogleBooksData.csproj.CopyComplete
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksData\obj\Debug\netstandard2.0\GoogleBooksData.dll
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksData\obj\Debug\netstandard2.0\GoogleBooksData.pdb
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksData\obj\Debug\netstandard2.0\GoogleBooksData.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PlZ+QxxEyyhI1klJqNcPVD7glZciOPr2hU4KKJo2pJB7Pa3CrRgXPYq17lwraqil47g371TQawvJXmQLS8W+rw==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\lyncas-testes\\dotnet-c-sharp\\GoogleBooksApi\\GoogleBooksDomain\\GoogleBooksDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Welder\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Welder\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

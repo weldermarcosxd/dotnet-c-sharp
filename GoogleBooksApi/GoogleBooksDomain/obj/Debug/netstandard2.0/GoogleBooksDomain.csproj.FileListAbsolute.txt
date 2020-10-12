@@ -1,0 +1,9 @@
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksDomain\bin\Debug\netstandard2.0\GoogleBooksDomain.deps.json
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksDomain\bin\Debug\netstandard2.0\GoogleBooksDomain.dll
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksDomain\bin\Debug\netstandard2.0\GoogleBooksDomain.pdb
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksDomain\obj\Debug\netstandard2.0\GoogleBooksDomain.csprojAssemblyReference.cache
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksDomain\obj\Debug\netstandard2.0\GoogleBooksDomain.AssemblyInfoInputs.cache
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksDomain\obj\Debug\netstandard2.0\GoogleBooksDomain.AssemblyInfo.cs
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksDomain\obj\Debug\netstandard2.0\GoogleBooksDomain.csproj.CoreCompileInputs.cache
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksDomain\obj\Debug\netstandard2.0\GoogleBooksDomain.dll
+D:\repos\lyncas-testes\dotnet-c-sharp\GoogleBooksApi\GoogleBooksDomain\obj\Debug\netstandard2.0\GoogleBooksDomain.pdb

@@ -27,6 +27,11 @@ namespace GoogleBooksApi
         {
             services.AddControllers();
 
+            services.AddCors(c =>
+            {
+                c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());
+            });
+
             services.AddScoped(typeof(HttpClient), typeof(HttpClient));
 
             services.AddScoped(typeof(IGoogleBooksService), typeof(GoogleBooksService));
@@ -43,6 +48,8 @@ namespace GoogleBooksApi
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseCors(options => options.AllowAnyOrigin());
 
             app.UseHttpsRedirection();
 
